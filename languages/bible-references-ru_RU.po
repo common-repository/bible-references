@@ -1,0 +1,252 @@
+# copyright (c) BibleOnline.ru
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 "
+"&& (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Project-Id-Version: Bible Online References\n"
+"POT-Creation-Date: 2017-03-01 00:42+0300\n"
+"PO-Revision-Date: 2017-03-01 03:31+0300\n"
+"Language-Team: Bible Online <bible@bibleonline.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: bible-references.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: Bible Online <bible@bible.ru>\n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: bible-references.php:11 includes/control.php:2 includes/fieldset.php:2
+#: includes/optionspage.php:2 includes/save.php:2
+msgid "Sorry, you are not allowed to access this page directly."
+msgstr "Извините, у вас нет доступа к данной странице обратившись напрямую."
+
+#. Plugin Name of the plugin/theme
+#: includes/control.php:5
+msgid "Bible Online References"
+msgstr "Библейские ссылки"
+
+#: includes/control.php:5
+msgid "Bible References"
+msgstr "Библейские ссылки"
+
+#: includes/fieldset.php:5
+msgid "Translate"
+msgstr "Перевод"
+
+#: includes/fieldset.php:9 includes/fieldset.php:10 includes/fieldset.php:11
+msgid "Russian"
+msgstr "Русский"
+
+#: includes/fieldset.php:12
+msgid "Ukrainian"
+msgstr "Украинский"
+
+#: includes/fieldset.php:13
+msgid "English"
+msgstr "Английский"
+
+#: includes/fieldset.php:14
+msgid "German"
+msgstr "Немецкий"
+
+#: includes/fieldset.php:15
+msgid "Belarusian"
+msgstr "Белорусский"
+
+#: includes/fieldset.php:16
+msgid "Romanian"
+msgstr "Румынский"
+
+#: includes/fieldset.php:17
+msgid "Spanish"
+msgstr "Испанский"
+
+#: includes/fieldset.php:18
+msgid "French"
+msgstr "Французский"
+
+#: includes/fieldset.php:19
+msgid "Greek"
+msgstr "Греческий"
+
+#: includes/fieldset.php:20
+msgid "Italian"
+msgstr "Итальянский"
+
+#: includes/fieldset.php:21
+msgid "Portuguese"
+msgstr "Португальский"
+
+#: includes/fieldset.php:22
+msgid "Turkish"
+msgstr "Турецкий"
+
+#: includes/fieldset.php:23
+msgid "Chinese"
+msgstr "Китайский"
+
+#: includes/fieldset.php:27
+msgid "Open links in"
+msgstr "Ссылки открывать"
+
+#: includes/fieldset.php:30
+msgid "New window"
+msgstr "В новом окне"
+
+#: includes/fieldset.php:30
+msgid "Existing window"
+msgstr "В текущем окне"
+
+#: includes/fieldset.php:33
+msgid "ToolTips"
+msgstr "Всплывающие окно с текстом Библиии"
+
+#: includes/fieldset.php:36
+msgid "Show"
+msgstr "Показывать"
+
+#: includes/fieldset.php:36
+msgid "Don't show"
+msgstr "Не показывать"
+
+#: includes/fieldset.php:40
+msgid "Search in title=\"...\" for next class=\"...\""
+msgstr "Искать стих в title для класса"
+
+#: includes/fieldset.php:45
+msgid "Do not search in title=\"...\" for next class=\"...\""
+msgstr "Не искать стих в title для класса"
+
+#: includes/fieldset.php:50
+msgid "CSS stylesheet"
+msgstr "Собственный файл стилей CSS"
+
+#: includes/fieldset.php:55
+msgid "Separators chapter from verses"
+msgstr "Разделители главы от стихов"
+
+#: includes/fieldset.php:60
+msgid "Separators verse from verses"
+msgstr "Разделители стихов от стихов"
+
+#: includes/fieldset.php:65
+msgid "Separators of group chapters"
+msgstr "Разделители группы глав"
+
+#: includes/fieldset.php:71
+msgid "Do not search in the following HTML tags"
+msgstr "Не подсвечивать ссылки в следующих тегах"
+
+#: includes/fieldset.php:73
+msgid "Bold"
+msgstr "Жирный"
+
+#: includes/fieldset.php:74
+msgid "Italic"
+msgstr "Курсив"
+
+#: includes/fieldset.php:75
+msgid "Underline"
+msgstr "Подчеркнутый"
+
+#: includes/fieldset.php:76
+msgid "Ordered list"
+msgstr "Нумерованный список"
+
+#: includes/fieldset.php:77
+msgid "Unordered list"
+msgstr "Не нумерованный список"
+
+#: includes/fieldset.php:78
+msgid "Inline block"
+msgstr "Встроенный блок"
+
+#: includes/fieldset.php:79
+msgid "Block quotation"
+msgstr "Блок цитаты"
+
+#: includes/fieldset.php:80
+msgid "Heading 1st level"
+msgstr "Заголовок 1 уровня"
+
+#: includes/fieldset.php:81
+msgid "Heading 2nd level"
+msgstr "Заголовок 2 уровня"
+
+#: includes/fieldset.php:82
+msgid "Heading 3rd level"
+msgstr "Заголовок 3 уровня"
+
+#: includes/fieldset.php:83
+msgid "Heading 4th level"
+msgstr "Заголовок 4 уровня"
+
+#: includes/fieldset.php:84
+msgid "Heading 5th level"
+msgstr "Заголовок 5 уровня"
+
+#: includes/fieldset.php:85
+msgid "Heading 6th level"
+msgstr "Заголовок 6 уровня"
+
+#: includes/optionspage.php:29
+msgid "Your tags"
+msgstr "Ваши теги"
+
+#: includes/optionspage.php:29
+msgid "For example"
+msgstr "Например"
+
+#: includes/optionspage.php:30
+msgid "Documentation"
+msgstr "Документация по конфигурации"
+
+#: includes/optionspage.php:35
+msgid "Bible References Options"
+msgstr "Настройка подсветки Библейских ссылок"
+
+#: includes/optionspage.php:57
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: includes/optionspage.php:59
+msgid "Reset to default"
+msgstr "Вернуть значения по умолчанию"
+
+#: includes/optionspage.php:59
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+#: includes/save.php:8
+msgid "Sorry. You do not have permission to do this."
+msgstr "Извините, у вас нет право для данного действия."
+
+#. Plugin URI of the plugin/theme
+msgid "https://bitbucket.org/bibleonline/wordpress"
+msgstr "https://bitbucket.org/bibleonline/wordpress"
+
+#. Description of the plugin/theme
+msgid ""
+"Scans the site for Bible references. Once it finds a Bible reference it will be "
+"converted into a hoverable link."
+msgstr ""
+"Данный плагин, сканирует отображаемую страницу сайта на наличие Библейских "
+"ссылок. После того, как плагин находит ссылку она превратится в гиперссылку, и "
+"при наведение на которую можно увидеть текст Библии, и при желании прочитать "
+"текст в контексте. Плагин не вмешивается в записи ваших постов в базе данных, "
+"после его отключения, у вас всё останется, как и было до него."
+
+#. Author of the plugin/theme
+msgid "BibleOnline.ru"
+msgstr "BibleOnline.ru"
+
+#. Author URI of the plugin/theme
+msgid "https://bibleonline.ru/"
+msgstr "https://bibleonline.ru/"
